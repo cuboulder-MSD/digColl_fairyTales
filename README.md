@@ -1,0 +1,2 @@
+# digColl_fairyTales
+"Once Upon a Time" includes a sampling of fairy tales from the collection housed in UCB Libraries' Special Collections Department. Covering a three hundred year time frame, the print collection encompasses European, American, and Asian tales, including several rare editions by Charles Perrault, Mme d'Aulnoy, Giovanni Straparola and the Brothers Grimm as well as the illustrator Arthur Rackham. DOI: https://doi.org/10.25810/7pvg-ma55
