@@ -34,7 +34,7 @@ A term that specifies the characteristics and general type of content of the res
 ### Access Condition
 Information about restrictions imposed on access to a resource.
 
-Statement in collection: Material is in the public domain. However the holding institution may assert copyright for the digitized objects, underlying encoded text, selection, indexing, organization, and display of materialsÂ—whether in part or as an aggregationÂ—to the extent permitted by law.
+Statement in collection: Material is in the public domain. However the holding institution may assert copyright for the digitized objects, underlying encoded text, selection, indexing, organization, and display of materials—whether in part or as an aggregation—to the extent permitted by law.
 
 ### Edition
 A particular form or version of a published text.
