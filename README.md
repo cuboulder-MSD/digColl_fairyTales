@@ -36,5 +36,24 @@ Information about restrictions imposed on access to a resource.
 
 Statement in collection: Material is in the public domain. However the holding institution may assert copyright for the digitized objects, underlying encoded text, selection, indexing, organization, and display of materialsÂ—whether in part or as an aggregationÂ—to the extent permitted by law.
 
+### Edition
+A particular form or version of a published text.
+### Date Issued
+The date that the resource was published, released, or issued. Date ranges include: 1700s-1900s
+### Publisher
+The name of the entity that published, printed, distributed, released, issued, or produced the resource.
+### Place Created
+Location of work creation or publication city. Places include: Brussels; New York; London; Paris
+### Date Captured
+The date on which the resource was digitized or a subsequent snapshot was taken. Dates include: 2019
+### Subject Topic
+A term or phrase representing the primary topic(s) on which a work is focused. Common subject terms used in this collection include: Fairy tales
+### Classification
+Classification number assigned to the book. Example: PZ8 .C488 1904
+### Physical Location
+The institution or repository that holds the resource or where it is available: University of Colorado Libraries
+### Related Item
+Information that identifies other resources related to the one being described.
+### Host Book
 ## Resources
 ## Notes
